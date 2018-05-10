@@ -1,4 +1,2 @@
 # best-repo-ever
-my first change
-
-first change for merge conflict
+my first change test merge conflict
